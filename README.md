@@ -1,4 +1,7 @@
 ### Hi there 👋
+## 이름 : 김재민
+## 학과 : 소프트웨어학부
+## 학년 : 2학년
 
 <!--
 **Jaemin0730/Jaemin0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
