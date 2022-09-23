@@ -1,6 +1,10 @@
-## 이름 : 김재민
-## 학과 : 소프트웨어학부
-## 학년 : 2학년
+### 👋 개발자를 꿈꾸는 김재민입니다 👋
+## Major : Computer Science - Software
+
+<h3 align="center"> Content </h3>
+<p align="center">
+  <a href="mailto:jaemkim01@hanyang.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wdh112139@gmail.com"/></a>
+</p>
 
 [![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jaemkim01)](https://solved.ac/profile/jaemkim01)
 [![CodeForces Profile](https://cf.leed.at?id=jaemkim01)](https://codeforces.com/profile/jaemkim01)
