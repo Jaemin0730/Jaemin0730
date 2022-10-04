@@ -8,8 +8,6 @@
 <div align="center">
 [![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jaemkim01)](https://solved.ac/profile/jaemkim01)
 [![CodeForces Profile](https://cf.leed.at?id=jaemkim01)](https://codeforces.com/profile/jaemkim01)
-
-</div>
 <!--
 **Jaemin0730/Jaemin0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
