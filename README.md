@@ -1,9 +1,9 @@
 ### 👋 개발자를 꿈꾸는 김재민입니다 👋
-<h3 align="center">![Jaemin's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Jaemin0730&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
+![Jaemin's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Jaemin0730&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 <br>
 <br>
 ### ✏️ BOJ 📖
-<h3 align="center">[![Solved.ac
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaemkim01)](https://solved.ac/jaemkim01)
 <h3 align="center"> Contact </h3>
 <p align="center">
