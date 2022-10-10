@@ -1,6 +1,6 @@
-<div align="center">
 ### 👋 개발자를 꿈꾸는 김재민입니다 👋
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Jaemin0730&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
+<div align="center">
+![Jaemin's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Jaemin0730&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 <br>
 <br>
 ### ✏️ BOJ 📖
