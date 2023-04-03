@@ -22,7 +22,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 <br>
 <br>
-### 🐣  🐣
+### 🐣 Contact 🐣
 <a href="mailto:jaemkim01@hanayang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
 <a href="https://jaemin0730.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/T tistory-EA4335?style=flat-square&logo=T&logoColor=white"/></a>
 
