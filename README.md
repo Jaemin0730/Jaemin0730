@@ -14,7 +14,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaemkim01)](https://solved.ac/jaemkim01)
 <br>
 <br>
-### 🔨 Tech Stack 🔧
+### 🔨 Tech  Stack 🔧
   
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
